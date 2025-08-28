@@ -37,20 +37,13 @@ Instead of manually moving files, this bot automatically sorts them into folders
 
 ## 📂 Example Result
 ### Before:  
-
-    report.pdf, photo.jpg, song.mp3, video.mp4, archive.zip
+![Before Screenshot](images/before.PNG)
 
 ### After running: (All files are organized)
 
-Documents/report.pdf
+![After Screenshot](images/after.PNG) 
 
-Images/photo.jpg
-
-Music/song.mp3
-
-Videos/video.mp4
-
-Archives/archive.zip
+![After Screenshot](images/afte r.PNG)
 
 ## 👨‍💻 About Me
 Hi! I’m **Nef**, a Virtual Assistant skilled in automation and data handling.  
