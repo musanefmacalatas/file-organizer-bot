@@ -3,7 +3,7 @@ import shutil
 
 # 📂 Target folders (auto-create kung wala pa)
 folders = {
-    "Documents": [".pdf", ".docx", ".txt", ".xlsx", ".psd"],
+    "Documents": [".pdf", ".docx", ".txt", ".xlsx", ".psd", ".doc", ".xls"],
     "Images": [".jpg", ".jpeg", ".png"],
     "Music": [".mp3", ".wav"],
     "Videos": [".mp4", ".mov", ".avi"],

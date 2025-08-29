@@ -37,13 +37,13 @@ Instead of manually moving files, this bot automatically sorts them into folders
 
 ## 📂 Example Result
 ### Before:  
-![Before Screenshot](images/before.PNG)
+![Before Screenshot](images/before.png)
 
 ### After running: (All files are organized)
 
-![After Screenshot](images/after1.PNG) 
+![After Screenshot](images/after1.png) 
 
-![After Screenshot](images/after2.PNG)
+![After Screenshot](images/after2.png)
 
 ## 👨‍💻 About Me
 Hi! I’m **Nef**, a Virtual Assistant skilled in automation and data handling.  
