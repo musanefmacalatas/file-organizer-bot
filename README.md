@@ -22,7 +22,7 @@ Instead of manually moving files, this bot automatically sorts them into folders
 ---
 
 ## 🛠️ Tools Used
-- **Python 3**  
+- [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 - Built-in libraries: `os`, `shutil`  
 
 ---
