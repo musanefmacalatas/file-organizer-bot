@@ -41,9 +41,9 @@ Instead of manually moving files, this bot automatically sorts them into folders
 
 ### After running: (All files are organized)
 
-![After Screenshot](images/after.PNG) 
+![After Screenshot](images/after1.PNG) 
 
-![After Screenshot](images/afte r.PNG)
+![After Screenshot](images/after2.PNG)
 
 ## 👨‍💻 About Me
 Hi! I’m **Nef**, a Virtual Assistant skilled in automation and data handling.  
